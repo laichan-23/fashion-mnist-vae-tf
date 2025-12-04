@@ -57,4 +57,4 @@ Model encoder dan decoder disimpan dalam format `.h5` di akhir eksekusi:
 * `vae_fashion_decoder.h5`
 
 ## 👤 Author
-Dibuat oleh [Nama Kamu]
+Dibuat oleh [Laelatul Badriyah_41236732]
